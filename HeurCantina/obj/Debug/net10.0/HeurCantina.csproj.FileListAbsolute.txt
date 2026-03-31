@@ -1,0 +1,14 @@
+C:\Users\cecil\labdotnet\HeurCantina\bin\Debug\net10.0\HeurCantina.exe
+C:\Users\cecil\labdotnet\HeurCantina\bin\Debug\net10.0\HeurCantina.deps.json
+C:\Users\cecil\labdotnet\HeurCantina\bin\Debug\net10.0\HeurCantina.runtimeconfig.json
+C:\Users\cecil\labdotnet\HeurCantina\bin\Debug\net10.0\HeurCantina.dll
+C:\Users\cecil\labdotnet\HeurCantina\bin\Debug\net10.0\HeurCantina.pdb
+C:\Users\cecil\labdotnet\HeurCantina\obj\Debug\net10.0\HeurCantina.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cecil\labdotnet\HeurCantina\obj\Debug\net10.0\HeurCantina.AssemblyInfoInputs.cache
+C:\Users\cecil\labdotnet\HeurCantina\obj\Debug\net10.0\HeurCantina.AssemblyInfo.cs
+C:\Users\cecil\labdotnet\HeurCantina\obj\Debug\net10.0\HeurCantina.csproj.CoreCompileInputs.cache
+C:\Users\cecil\labdotnet\HeurCantina\obj\Debug\net10.0\HeurCantina.dll
+C:\Users\cecil\labdotnet\HeurCantina\obj\Debug\net10.0\refint\HeurCantina.dll
+C:\Users\cecil\labdotnet\HeurCantina\obj\Debug\net10.0\HeurCantina.pdb
+C:\Users\cecil\labdotnet\HeurCantina\obj\Debug\net10.0\HeurCantina.genruntimeconfig.cache
+C:\Users\cecil\labdotnet\HeurCantina\obj\Debug\net10.0\ref\HeurCantina.dll

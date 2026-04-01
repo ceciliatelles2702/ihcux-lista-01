@@ -1,1 +1,6 @@
-# ihcux-lista-01
+Equipe:
+
+Cecília Telles
+Cauan Henrique
+Davi Delmiro
+Felipe Augusto
